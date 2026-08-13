@@ -83,7 +83,7 @@ awesome-genai-cyberhub/
 
 ### 🏅 General
 
-* 🤖 [CAI (aliasrobotics/cai)](https://github.com/aliasrobotics/cai) ⭐ 9,712 | 🐛 14 | 🌐 Python | 📅 2026-07-14 **\[Tool/GitHub]** - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).
+* 🤖 [CAI (aliasrobotics/cai)](https://github.com/aliasrobotics/cai) ⭐ 9,716 | 🐛 14 | 🌐 Python | 📅 2026-07-14 **\[Tool/GitHub]** - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).
 
 * 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,202 | 🐛 6 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
 
@@ -154,7 +154,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 ### 🥉 Benchmarks & Datasets
 
-* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 446 | 🐛 6 | 🌐 TypeScript | 📅 2026-06-24 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
+* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 447 | 🐛 6 | 🌐 TypeScript | 📅 2026-06-24 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
 
 * 📊 [CyberGym-E2E (sunblaze-ucb)](https://github.com/sunblaze-ucb/cybergym-e2e) ⭐ 51 | 🐛 1 | 🌐 Shell | 📅 2026-06-25 **\[Benchmark/GitHub]** - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).
 
