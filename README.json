@@ -29,7 +29,7 @@
             "last_commit": "2026-07-14T12:55:53Z",
             "owner": "aliasrobotics",
             "repo": "cai",
-            "stars": 9716
+            "stars": 9723
           }
         },
         {
@@ -220,7 +220,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T04:30:33Z",
+            "last_commit": "2026-08-14T04:01:57Z",
             "owner": "GangGreenTemperTatum",
             "repo": "stealthbench",
             "stars": 7
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:39:54.566Z",
+    "last_updated": "2026-08-14T08:23:57.290Z",
     "original_repository": "Ashfaaq98/awesome-genai-cyberhub",
     "original_repository_sha": "2be03f35e593774eee1fdfd41988cc4e6f26f68f",
     "enhanced_repository": "enhansome/enhansome-genai-cyberhub",
