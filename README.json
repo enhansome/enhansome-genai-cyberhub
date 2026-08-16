@@ -29,7 +29,7 @@
             "last_commit": "2026-07-14T12:55:53Z",
             "owner": "aliasrobotics",
             "repo": "cai",
-            "stars": 9727
+            "stars": 9735
           }
         },
         {
@@ -43,7 +43,7 @@
             "last_commit": "2025-07-28T13:31:18Z",
             "owner": "FoundationAgents",
             "repo": "awesome-foundation-agents",
-            "stars": 2202
+            "stars": 2203
           }
         },
         {
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:38:37.809Z",
+    "last_updated": "2026-08-16T07:39:15.162Z",
     "original_repository": "Ashfaaq98/awesome-genai-cyberhub",
     "original_repository_sha": "2be03f35e593774eee1fdfd41988cc4e6f26f68f",
     "enhanced_repository": "enhansome/enhansome-genai-cyberhub",
