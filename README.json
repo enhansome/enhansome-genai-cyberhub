@@ -29,7 +29,7 @@
             "last_commit": "2026-07-14T12:55:53Z",
             "owner": "aliasrobotics",
             "repo": "cai",
-            "stars": 9743
+            "stars": 9753
           }
         },
         {
@@ -125,7 +125,7 @@
             "last_commit": "2026-06-24T16:33:29Z",
             "owner": "paradigmxyz",
             "repo": "evmbench",
-            "stars": 447
+            "stars": 448
           }
         },
         {
@@ -178,7 +178,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-03T11:05:30Z",
+            "last_commit": "2026-08-17T11:05:45Z",
             "owner": "cisco-foundation-ai",
             "repo": "faith",
             "stars": 24
@@ -220,7 +220,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T22:56:07Z",
+            "last_commit": "2026-08-18T05:07:52Z",
             "owner": "GangGreenTemperTatum",
             "repo": "stealthbench",
             "stars": 7
@@ -247,7 +247,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T07:57:51.213Z",
+    "last_updated": "2026-08-18T07:48:20.609Z",
     "original_repository": "Ashfaaq98/awesome-genai-cyberhub",
     "original_repository_sha": "2be03f35e593774eee1fdfd41988cc4e6f26f68f",
     "enhanced_repository": "enhansome/enhansome-genai-cyberhub",
