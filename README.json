@@ -1,253 +1,245 @@
 {
   "items": [
     {
-      "description": "This repo aggregates the most impactful LLM‑centric work in cybersecurity, grouped by real‑world problem domains. Whether you’re building an autonomous SOC analyst, crafting threat profiles, or automating detection rule writing or exploring offensive workflows like red teaming, jump straight to the topic area that matters most.",
-      "items": [],
-      "title": "About"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Topic-Based Directory Structure"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🤖 CAI (aliasrobotics/cai)",
+              "description": "[Tool/GitHub] - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 957859485,
+                "language": "Python",
+                "last_commit": "2026-07-14T12:55:53Z",
+                "owner": "aliasrobotics",
+                "repo": "cai",
+                "stars": 9762
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📚 awesome-foundation-agents",
+              "description": "[Awesome List/GitHub] - Curated list of foundation-model agent resources (general agent ecosystem context).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 953748393,
+                "language": null,
+                "last_commit": "2025-07-28T13:31:18Z",
+                "owner": "FoundationAgents",
+                "repo": "awesome-foundation-agents",
+                "stars": 2205
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🤖 Cyber Security llm Agents",
+              "description": "[Tool/GitHub] - A collection of agents using LLMs (built on AutoGen) to perform common cybersecurity tasks, showcased at RSAC 2024.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 765110276,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-05-07T15:31:28Z",
+                "owner": "NVISOsecurity",
+                "repo": "cyber-security-llm-agents",
+                "stars": 388
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🏅 General"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🖥️ ORKL MCP Server",
+              "description": "[Github] - A Model Context Protocol (MCP) server for querying the ORKL API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 894937899,
+                "language": "Python",
+                "last_commit": "2025-01-22T23:09:11Z",
+                "owner": "fr0gger",
+                "repo": "MCP_Security",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🖥️ OpenCTI MCP Server",
+              "description": "[Github] - A Model Context Protocol (MCP) server for orchestrating and querying OpenCTI via LLM agents.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1093059675,
+                "language": "Python",
+                "last_commit": "2025-11-29T06:47:59Z",
+                "owner": "CooperCyberCoffee",
+                "repo": "opencti_mcp_server",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "🖥️ External Reconnaissance MCP Server",
+              "description": "[Github] - A Model Context Protocol (MCP) server for performing active external reconnaissance activities against a domain.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 964317746,
+                "language": "Python",
+                "last_commit": "2025-04-11T19:32:48Z",
+                "owner": "naebo",
+                "repo": "mcp-external-recon-server",
+                "stars": 13
+              }
+            }
+          ],
+          "description": "This section covers resources related to Model Context Protocol (MCP) servers for security. These systems facilitate more complex and coordinated AI-driven security operations.",
+          "node_type": "group",
+          "title": "🥇 MCP Servers (Model Context Protocol)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "📊 EVMBench (paradigmxyz)",
+              "description": "[Benchmark/Tool/GitHub] - A benchmark and harness for finding and exploiting smart contract bugs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1161070751,
+                "language": "TypeScript",
+                "last_commit": "2026-06-24T16:33:29Z",
+                "owner": "paradigmxyz",
+                "repo": "evmbench",
+                "stars": 448
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📊 CyberGym-E2E (sunblaze-ucb)",
+              "description": "[Benchmark/GitHub] - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1239193196,
+                "language": "Shell",
+                "last_commit": "2026-06-25T06:59:58Z",
+                "owner": "sunblaze-ucb",
+                "repo": "cybergym-e2e",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📊 PhishLLM",
+              "description": "[Benchmark/Tool/GitHub] See also: Project Page",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 648944116,
+                "language": "Python",
+                "last_commit": "2026-06-04T10:13:46Z",
+                "owner": "code-philia",
+                "repo": "PhishVLM",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📊 CyberBench: A Multi-Task Benchmark for Evaluating Large Language Models in Cybersecurity",
+              "description": "[Paper/Benchmark/GitHub] GitHub: jpmorganchase/CyberBench",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 887979125,
+                "language": "Python",
+                "last_commit": "2025-04-29T16:34:23Z",
+                "owner": "jpmorganchase",
+                "repo": "CyberBench",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📊 FAITH (Foundation AI Testing Hub)",
+              "description": "[Benchmark/GitHub] - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1041702792,
+                "language": "Python",
+                "last_commit": "2026-08-17T11:05:45Z",
+                "owner": "cisco-foundation-ai",
+                "repo": "faith",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📊 Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs",
+              "description": "[Benchmark/GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 818804803,
+                "language": "Python",
+                "last_commit": "2026-08-07T12:47:05Z",
+                "owner": "ortegaalfredo",
+                "repo": "crashbench",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📊 AgentCyberRange",
+              "description": "[Benchmark/Website] - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the Research Paper (arXiv:2606.14295) and the WebExploitBench GitHub Repo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1258846913,
+                "language": "JavaScript",
+                "last_commit": "2026-07-29T12:22:35Z",
+                "owner": "AgentCyberRange",
+                "repo": "WebExploitBench",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📊 StealthBench",
+              "description": "[Benchmark/GitHub] - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1313945384,
+                "language": "Python",
+                "last_commit": "2026-08-19T02:08:00Z",
+                "owner": "GangGreenTemperTatum",
+                "repo": "stealthbench",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "🥉 Benchmarks & Datasets"
+        }
+      ],
       "title": "Resource Listings"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🤖 CAI (aliasrobotics/cai)",
-          "description": "[Tool/GitHub] - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-14T12:55:53Z",
-            "owner": "aliasrobotics",
-            "repo": "cai",
-            "stars": 9753
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "📚 awesome-foundation-agents",
-          "description": "[Awesome List/GitHub] - Curated list of foundation-model agent resources (general agent ecosystem context).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-07-28T13:31:18Z",
-            "owner": "FoundationAgents",
-            "repo": "awesome-foundation-agents",
-            "stars": 2204
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🤖 Cyber Security llm Agents",
-          "description": "[Tool/GitHub] - A collection of agents using LLMs (built on AutoGen) to perform common cybersecurity tasks, showcased at RSAC 2024.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-05-07T15:31:28Z",
-            "owner": "NVISOsecurity",
-            "repo": "cyber-security-llm-agents",
-            "stars": 388
-          }
-        }
-      ],
-      "title": "🏅 General"
-    },
-    {
-      "description": "This section covers resources related to Model Context Protocol (MCP) servers for security. These systems facilitate more complex and coordinated AI-driven security operations.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "🖥️ ORKL MCP Server",
-          "description": "[Github] - A Model Context Protocol (MCP) server for querying the ORKL API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-01-22T23:09:11Z",
-            "owner": "fr0gger",
-            "repo": "MCP_Security",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🖥️ OpenCTI MCP Server",
-          "description": "[Github] - A Model Context Protocol (MCP) server for orchestrating and querying OpenCTI via LLM agents.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-11-29T06:47:59Z",
-            "owner": "CooperCyberCoffee",
-            "repo": "opencti_mcp_server",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "🖥️ External Reconnaissance MCP Server",
-          "description": "[Github] - A Model Context Protocol (MCP) server for performing active external reconnaissance activities against a domain.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-11T19:32:48Z",
-            "owner": "naebo",
-            "repo": "mcp-external-recon-server",
-            "stars": 13
-          }
-        }
-      ],
-      "title": "🥇 MCP Servers (Model Context Protocol)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "📊 EVMBench (paradigmxyz)",
-          "description": "[Benchmark/Tool/GitHub] - A benchmark and harness for finding and exploiting smart contract bugs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-06-24T16:33:29Z",
-            "owner": "paradigmxyz",
-            "repo": "evmbench",
-            "stars": 448
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "📊 CyberGym-E2E (sunblaze-ucb)",
-          "description": "[Benchmark/GitHub] - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-06-25T06:59:58Z",
-            "owner": "sunblaze-ucb",
-            "repo": "cybergym-e2e",
-            "stars": 52
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "📊 PhishLLM",
-          "description": "[Benchmark/Tool/GitHub] See also: Project Page",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-04T10:13:46Z",
-            "owner": "code-philia",
-            "repo": "PhishVLM",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "📊 CyberBench: A Multi-Task Benchmark for Evaluating Large Language Models in Cybersecurity",
-          "description": "[Paper/Benchmark/GitHub] GitHub: jpmorganchase/CyberBench",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2025-04-29T16:34:23Z",
-            "owner": "jpmorganchase",
-            "repo": "CyberBench",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "📊 FAITH (Foundation AI Testing Hub)",
-          "description": "[Benchmark/GitHub] - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T11:05:45Z",
-            "owner": "cisco-foundation-ai",
-            "repo": "faith",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "📊 Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs",
-          "description": "[Benchmark/GitHub]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-07T12:47:05Z",
-            "owner": "ortegaalfredo",
-            "repo": "crashbench",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "📊 AgentCyberRange",
-          "description": "[Benchmark/Website] - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the Research Paper (arXiv:2606.14295) and the WebExploitBench GitHub Repo.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-07-29T12:22:35Z",
-            "owner": "AgentCyberRange",
-            "repo": "WebExploitBench",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "📊 StealthBench",
-          "description": "[Benchmark/GitHub] - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T05:07:52Z",
-            "owner": "GangGreenTemperTatum",
-            "repo": "stealthbench",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "📊 BotsBench",
-          "description": "[Benchmark/Leaderboard] - Live leaderboard benchmarking AI agents (Claude Code, OpenAI Codex, etc.) on SOC investigation tasks using the Splunk BOTSv3 corpus. Covers 100+ log/alert providers, ATT&CK-mapped questions, efficiency tradeoffs, and contamination hygiene. By Graphistry. GitHub: graphistry/bots-bench.",
-          "children": []
-        }
-      ],
-      "title": "🥉 Benchmarks & Datasets"
-    },
-    {
-      "description": "Distributed under the MIT License. See MIT License for details.",
-      "items": [],
-      "title": "License"
-    },
-    {
-      "description": "For suggestions or PRs, open an issue or reach out to me at ashfaaqf@proton.me .",
-      "items": [],
-      "title": "Contact"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:48:20.609Z",
+    "last_updated": "2026-08-19T07:49:16.372Z",
     "original_repository": "Ashfaaq98/awesome-genai-cyberhub",
     "original_repository_sha": "2be03f35e593774eee1fdfd41988cc4e6f26f68f",
     "enhanced_repository": "enhansome/enhansome-genai-cyberhub",
