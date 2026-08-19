@@ -17,7 +17,7 @@
                 "last_commit": "2026-07-14T12:55:53Z",
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9762
+                "stars": 9766
               }
             },
             {
@@ -186,21 +186,6 @@
             },
             {
               "node_type": "item",
-              "title": "📊 Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs",
-              "description": "[Benchmark/GitHub]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 818804803,
-                "language": "Python",
-                "last_commit": "2026-08-07T12:47:05Z",
-                "owner": "ortegaalfredo",
-                "repo": "crashbench",
-                "stars": 14
-              }
-            },
-            {
-              "node_type": "item",
               "title": "📊 AgentCyberRange",
               "description": "[Benchmark/Website] - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the Research Paper (arXiv:2606.14295) and the WebExploitBench GitHub Repo.",
               "children": [],
@@ -211,6 +196,21 @@
                 "last_commit": "2026-07-29T12:22:35Z",
                 "owner": "AgentCyberRange",
                 "repo": "WebExploitBench",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "📊 Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs",
+              "description": "[Benchmark/GitHub]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 818804803,
+                "language": "Python",
+                "last_commit": "2026-08-07T12:47:05Z",
+                "owner": "ortegaalfredo",
+                "repo": "crashbench",
                 "stars": 14
               }
             },
@@ -239,8 +239,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:49:16.372Z",
+    "last_updated": "2026-08-19T12:33:39.502Z",
     "original_repository": "Ashfaaq98/awesome-genai-cyberhub",
+    "original_repository_id": 846142167,
     "original_repository_sha": "2be03f35e593774eee1fdfd41988cc4e6f26f68f",
     "enhanced_repository": "enhansome/enhansome-genai-cyberhub",
     "enhanced_repository_description": null,
