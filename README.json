@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-22T13:05:58Z",
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9797
+                "stars": 9795
               }
             },
             {
@@ -178,7 +178,7 @@
                 "archived": false,
                 "id": 1041702792,
                 "language": "Python",
-                "last_commit": "2026-08-17T11:05:45Z",
+                "last_commit": "2026-08-24T11:06:52Z",
                 "owner": "cisco-foundation-ai",
                 "repo": "faith",
                 "stars": 25
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:02:20.070Z",
+    "last_updated": "2026-08-24T14:46:31.834Z",
     "original_repository": "Ashfaaq98/awesome-genai-cyberhub",
     "original_repository_id": 846142167,
     "original_repository_sha": "2be03f35e593774eee1fdfd41988cc4e6f26f68f",
