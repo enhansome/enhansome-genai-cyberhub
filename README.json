@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-22T13:05:58Z",
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9795
+                "stars": 9798
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-07-28T13:31:18Z",
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2208
+                "stars": 2209
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-05-07T15:31:28Z",
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
-                "stars": 388
+                "stars": 389
               }
             }
           ],
@@ -136,7 +136,7 @@
                 "last_commit": "2026-06-25T06:59:58Z",
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 54
+                "stars": 55
               }
             },
             {
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:46:31.834Z",
+    "last_updated": "2026-08-25T06:39:11.020Z",
     "original_repository": "Ashfaaq98/awesome-genai-cyberhub",
     "original_repository_id": 846142167,
     "original_repository_sha": "2be03f35e593774eee1fdfd41988cc4e6f26f68f",
