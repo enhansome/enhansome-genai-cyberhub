@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-22T13:05:58Z",
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9798
+                "stars": 9805
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-05-07T15:31:28Z",
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
-                "stars": 389
+                "stars": 390
               }
             }
           ],
@@ -223,7 +223,7 @@
                 "archived": false,
                 "id": 1313945384,
                 "language": "Python",
-                "last_commit": "2026-08-23T21:44:45Z",
+                "last_commit": "2026-08-26T02:54:18Z",
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
                 "stars": 7
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:53:34.099Z",
+    "last_updated": "2026-08-26T07:54:29.741Z",
     "original_repository": "Ashfaaq98/awesome-genai-cyberhub",
     "original_repository_id": 846142167,
     "original_repository_sha": "2be03f35e593774eee1fdfd41988cc4e6f26f68f",
