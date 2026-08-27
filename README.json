@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-22T13:05:58Z",
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9805
+                "stars": 9808
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2025-07-28T13:31:18Z",
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2209
+                "stars": 2211
               }
             },
             {
@@ -136,7 +136,7 @@
                 "last_commit": "2026-06-25T06:59:58Z",
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 55
+                "stars": 56
               }
             },
             {
@@ -223,7 +223,7 @@
                 "archived": false,
                 "id": 1313945384,
                 "language": "Python",
-                "last_commit": "2026-08-26T02:54:18Z",
+                "last_commit": "2026-08-26T18:16:12Z",
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
                 "stars": 7
@@ -239,9 +239,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T07:54:29.741Z",
-    "original_repository": "Ashfaaq98/awesome-genai-cyberhub",
-    "original_repository_id": 846142167,
+    "last_updated": "2026-08-27T11:43:46.813Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 846142167,
+      "language": null,
+      "last_commit": "2026-08-07T18:17:04Z",
+      "owner": "Ashfaaq98",
+      "repo": "awesome-genai-cyberhub",
+      "stars": 54
+    },
     "original_repository_sha": "2be03f35e593774eee1fdfd41988cc4e6f26f68f",
     "enhanced_repository": "enhansome/enhansome-genai-cyberhub",
     "enhanced_repository_description": null,
