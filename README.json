@@ -32,7 +32,7 @@
                 "last_commit": "2025-07-28T13:31:18Z",
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2211
+                "stars": 2212
               }
             },
             {
@@ -223,7 +223,7 @@
                 "archived": false,
                 "id": 1313945384,
                 "language": "Python",
-                "last_commit": "2026-08-26T18:16:12Z",
+                "last_commit": "2026-08-27T17:02:02Z",
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
                 "stars": 7
@@ -239,7 +239,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:43:46.813Z",
+    "last_updated": "2026-08-27T18:14:37.541Z",
     "original_repository_info": {
       "archived": false,
       "id": 846142167,
