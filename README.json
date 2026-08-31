@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9816,
+                "stars": 9818,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2212,
+                "stars": 2213,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -373,15 +373,15 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T12:47:52.971Z",
+    "last_updated": "2026-08-31T15:02:20.206Z",
     "original_repository_info": {
       "archived": false,
-      "description": "A curated list of AI driven Cyber security Resources",
+      "description": "A curated list of LLM driven Cyber security Resources",
       "homepage": null,
       "id": 846142167,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-08-07T18:17:04Z",
+      "last_commit": "2026-08-30T22:42:02Z",
       "open_issues": 0,
       "owner": "Ashfaaq98",
       "repo": "awesome-genai-cyberhub",
@@ -394,7 +394,7 @@
         "llm"
       ]
     },
-    "original_repository_sha": "2be03f35e593774eee1fdfd41988cc4e6f26f68f",
+    "original_repository_sha": "53a7c4ae7eff74f2290d80ad3cf9e2d4942852da",
     "enhanced_repository": "enhansome/enhansome-genai-cyberhub",
     "enhanced_repository_description": null,
     "title": "🚀 Awesome GenAI CyberHub ✨ with stars"

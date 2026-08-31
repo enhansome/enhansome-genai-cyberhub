@@ -85,7 +85,7 @@ awesome-genai-cyberhub/
 
 * 🤖 [CAI (aliasrobotics/cai)](https://github.com/aliasrobotics/cai) ⚠️ Archived **\[Tool/GitHub]** - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).
 
-* 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,212 | 🐛 7 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
+* 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,213 | 🐛 7 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
 
 * 🤖 [Cyber Security llm Agents ](https://github.com/NVISOsecurity/cyber-security-llm-agents) ⭐ 391 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-05-07 **\[Tool/GitHub]** - A collection of agents using LLMs (built on AutoGen) to perform common cybersecurity tasks, showcased at RSAC 2024.
 
@@ -116,6 +116,10 @@ awesome-genai-cyberhub/
 * 📄 [Comparative Analysis of AI-Driven Security Approaches in DevSecOps (arXiv:2504.19154)](https://arxiv.org/abs/2504.19154) **\[Paper]**
 
 * 📄 [The Dual Role of Artificial Intelligence and LLM in Cybersecurity (IEEE)](https://ieeexplore.ieee.org/document/11452144) **\[Paper]** - Examines the dual offensive and defensive role of AI and LLMs in cybersecurity, covering both how AI strengthens defenses and how it can be weaponized by adversaries.
+
+* 📄 [Large Language Models for Cybersecurity Intelligence: A Systematic Review of Emerging Threats, Defensive Capabilities, and Security Evaluation Frameworks (Computers, Materials & Continua, 2026)](https://www.sciencedirect.com/org/science/article/pii/S1546221826003565) **\[Paper/Review]** - A PRISMA 2020 systematic review spanning eight scholarly databases (Jan 2022 – Dec 2025), mapping LLM-enabled threats, defensive capabilities, and the evaluation frameworks used to measure them.
+
+* 📄 [LLM Agents Security Duality: A Comprehensive Survey of Self-Security and Empowered Cybersecurity (arXiv:2606.28450)](https://arxiv.org/abs/2606.28450) **\[Paper/Survey]** - Surveys both sides of agent security: threats against LLM agents themselves along with mitigations, and how agent capabilities are applied in offensive and defensive cybersecurity practice.
 
 * 📰 [Threat modeling with LLMs: two years in (hype, hope, and a look at Gemini 2.5 Pro)](https://xvnpw.github.io/posts/threat-modeling-with-llms-two-years-in-hype-hope-and-a-look-at-gemini-2.5-pro/) **\[Blog]**
 
@@ -206,6 +210,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [Benchmark Best Practices for Evaluating AI Agents in Cybersecurity](https://arxiv.org/abs/2507.02825) **\[Paper]**
 
+* 📊 [Evaluating Large Language Models in Cybersecurity: A Systematic Taxonomy and Empirical Analysis (MDPI Electronics, May 2026)](https://www.mdpi.com/2079-9292/15/10/2222) **\[Paper/SoK]** - A systematization of knowledge proposing a three-dimensional taxonomy matrix over offensive domains, defensive applications, and inherent architectural flaws, showing how static metric success rarely translates into end-to-end adversarial efficacy.
+
 * 📊 [BotsBench](https://botsbench.com/) **\[Benchmark/Leaderboard]** - Live leaderboard benchmarking AI agents (Claude Code, OpenAI Codex, etc.) on SOC investigation tasks using the Splunk BOTSv3 corpus. Covers 100+ log/alert providers, ATT\&CK-mapped questions, efficiency tradeoffs, and contamination hygiene. By Graphistry. GitHub: [graphistry/bots-bench](https://github.com/graphistry/bots-bench).
 
 * 📊 [DefenseBench](https://defensebench.ai/) **\[Benchmark/Website]** - Evaluates how well AI agents perform real-world defensive cybersecurity tasks — from triaging alerts to investigating incidents. Currently benchmarks agents on the Splunk Boss of the SOC v3 (BOTSv3) dataset using Splunk search under time pressure.
@@ -235,4 +241,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
