@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9820,
+                "stars": 9819,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2214,
+                "stars": 2216,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -186,7 +186,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 449,
+                "stars": 450,
                 "topics": [
                   "agents",
                   "ai",
@@ -220,7 +220,7 @@
                 "open_issues": 1,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 58,
+                "stars": 60,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T12:31:32.426Z",
+    "last_updated": "2026-09-02T12:04:24.368Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
