@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2218,
+                "stars": 2219,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -186,7 +186,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 452,
+                "stars": 453,
                 "topics": [
                   "agents",
                   "ai",
@@ -220,7 +220,7 @@
                 "open_issues": 1,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -285,7 +285,7 @@
                 "id": 1041702792,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-24T11:06:52Z",
+                "last_commit": "2026-09-07T11:07:08Z",
                 "open_issues": 3,
                 "owner": "cisco-foundation-ai",
                 "repo": "faith",
@@ -310,7 +310,7 @@
                 "open_issues": 0,
                 "owner": "AgentCyberRange",
                 "repo": "WebExploitBench",
-                "stars": 15,
+                "stars": 16,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -348,7 +348,7 @@
                 "id": 1313945384,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-05T21:32:36Z",
+                "last_commit": "2026-09-06T22:01:29Z",
                 "open_issues": 3,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:37:17.752Z",
+    "last_updated": "2026-09-07T13:28:06.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
