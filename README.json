@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T12:11:39.187Z",
+    "last_updated": "2026-09-11T12:10:09.741Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
@@ -385,7 +385,7 @@
       "open_issues": 0,
       "owner": "Ashfaaq98",
       "repo": "awesome-genai-cyberhub",
-      "stars": 54,
+      "stars": 55,
       "topics": [
         "ai",
         "awesome-list",
