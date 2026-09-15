@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9825,
+                "stars": 9830,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
-                "stars": 391,
+                "stars": 392,
                 "topics": [
                   "adversary-emulation",
                   "ai",
@@ -105,7 +105,7 @@
                 "open_issues": 2,
                 "owner": "fr0gger",
                 "repo": "MCP_Security",
-                "stars": 50,
+                "stars": 51,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -186,7 +186,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 454,
+                "stars": 455,
                 "topics": [
                   "agents",
                   "ai",
@@ -220,7 +220,7 @@
                 "open_issues": 1,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 67,
+                "stars": 69,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -310,7 +310,7 @@
                 "open_issues": 0,
                 "owner": "AgentCyberRange",
                 "repo": "WebExploitBench",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T13:54:54.317Z",
+    "last_updated": "2026-09-15T12:38:05.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
