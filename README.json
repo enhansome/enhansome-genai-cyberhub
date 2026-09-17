@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9832,
+                "stars": 9835,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -49,7 +49,7 @@
                 "open_issues": 8,
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2221,
+                "stars": 2222,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
-                "stars": 392,
+                "stars": 393,
                 "topics": [
                   "adversary-emulation",
                   "ai",
@@ -289,7 +289,7 @@
                 "open_issues": 3,
                 "owner": "cisco-foundation-ai",
                 "repo": "faith",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:33:52.881Z",
+    "last_updated": "2026-09-17T12:33:38.495Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
@@ -385,7 +385,7 @@
       "open_issues": 0,
       "owner": "Ashfaaq98",
       "repo": "awesome-genai-cyberhub",
-      "stars": 55,
+      "stars": 56,
       "topics": [
         "ai",
         "awesome-list",
