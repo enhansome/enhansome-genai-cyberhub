@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9833,
+                "stars": 9835,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -182,11 +182,11 @@
                 "id": 1161070751,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-06-24T16:33:29Z",
+                "last_commit": "2026-09-18T22:27:36Z",
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 456,
+                "stars": 457,
                 "topics": [
                   "agents",
                   "ai",
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:11:56.045Z",
+    "last_updated": "2026-09-19T11:54:19.199Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
