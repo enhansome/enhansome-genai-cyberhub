@@ -85,7 +85,7 @@ awesome-genai-cyberhub/
 
 * 🤖 [CAI (aliasrobotics/cai)](https://github.com/aliasrobotics/cai) ⚠️ Archived **\[Tool/GitHub]** - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).
 
-* 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,222 | 🐛 8 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
+* 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,223 | 🐛 8 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
 
 * 🤖 [Cyber Security llm Agents ](https://github.com/NVISOsecurity/cyber-security-llm-agents) ⭐ 393 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-05-07 **\[Tool/GitHub]** - A collection of agents using LLMs (built on AutoGen) to perform common cybersecurity tasks, showcased at RSAC 2024.
 
@@ -98,8 +98,6 @@ awesome-genai-cyberhub/
 * 📄 [Large Language Models for Cyber Security: A Systematic Literature Review ](https://arxiv.org/html/2405.04760) **\[Paper/Review]** - A systematic literature review analyzing over 185 papers to map the current landscape of LLM applications across various cybersecurity tasks, including vulnerability detection, malware analysis, and phishing detection.
 
 * 🌐 [An Introduction to AI in Cybersecurity ](https://cybersecai.github.io/introduction/cybsersecurity/) **\[Guide/Resource]** - An introductory resource discussing GenAI for cybersecurity, covering various topics including CVE enrichment and CWE assignment.
-
-* 🌐 [Incident Database](https://incidentdatabase.ai/) **\[Resource]** - Collection of documented incidents involving AI systems (useful for threat modeling and safety context).
 
 * 🛠️ [AttackGen](https://attackgen.streamlit.app/) **\[Tool/Website]** - Interactive helper for generating/structuring attack content and scenarios.
 
@@ -118,8 +116,6 @@ awesome-genai-cyberhub/
 * 📄 [The Dual Role of Artificial Intelligence and LLM in Cybersecurity (IEEE)](https://ieeexplore.ieee.org/document/11452144) **\[Paper]** - Examines the dual offensive and defensive role of AI and LLMs in cybersecurity, covering both how AI strengthens defenses and how it can be weaponized by adversaries.
 
 * 📄 [Large Language Models for Cybersecurity Intelligence: A Systematic Review of Emerging Threats, Defensive Capabilities, and Security Evaluation Frameworks (Computers, Materials & Continua, 2026)](https://www.sciencedirect.com/org/science/article/pii/S1546221826003565) **\[Paper/Review]** - A PRISMA 2020 systematic review spanning eight scholarly databases (Jan 2022 – Dec 2025), mapping LLM-enabled threats, defensive capabilities, and the evaluation frameworks used to measure them.
-
-* 📄 [LLM Agents Security Duality: A Comprehensive Survey of Self-Security and Empowered Cybersecurity (arXiv:2606.28450)](https://arxiv.org/abs/2606.28450) **\[Paper/Survey]** - Surveys both sides of agent security: threats against LLM agents themselves along with mitigations, and how agent capabilities are applied in offensive and defensive cybersecurity practice.
 
 * 📰 [Threat modeling with LLMs: two years in (hype, hope, and a look at Gemini 2.5 Pro)](https://xvnpw.github.io/posts/threat-modeling-with-llms-two-years-in-hype-hope-and-a-look-at-gemini-2.5-pro/) **\[Blog]**
 
@@ -158,21 +154,21 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 ### 🥉 Benchmarks & Datasets
 
-* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 457 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-18 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
+* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 456 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-18 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
 
-* 📊 [CyberGym-E2E (sunblaze-ucb)](https://github.com/sunblaze-ucb/cybergym-e2e) ⭐ 73 | 🐛 2 | 🌐 Shell | 📅 2026-09-03 **\[Benchmark/GitHub]** - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).
+* 📊 [CyberGym-E2E (sunblaze-ucb)](https://github.com/sunblaze-ucb/cybergym-e2e) ⭐ 75 | 🐛 2 | 🌐 Shell | 📅 2026-09-03 **\[Benchmark/GitHub]** - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).
 
 * 📊 [PhishLLM](https://github.com/code-philia/PhishLLM) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-06-04 **\[Benchmark/Tool/GitHub]**  See also: [Project Page](https://sites.google.com/view/phishllm/home)
 
 * 📊 [CyberBench: A Multi-Task Benchmark for Evaluating Large Language Models in Cybersecurity](https://www.researchgate.net/publication/378267627_CyberBench_A_Multi-Task_Benchmark_for_Evaluating_Large_Language_Models_in_Cybersecurity) **\[Paper/Benchmark/GitHub]**  GitHub: [jpmorganchase/CyberBench](https://github.com/jpmorganchase/CyberBench) ⚠️ Archived
 
-* 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) ⭐ 26 | 🐛 3 | 🌐 Python | 📅 2026-09-07 **\[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
+* 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) ⭐ 27 | 🐛 3 | 🌐 Python | 📅 2026-09-07 **\[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
 
 * 📊 [AgentCyberRange](https://agentcyberrange.io/) **\[Benchmark/Website]** - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the [Research Paper (arXiv:2606.14295)](https://arxiv.org/abs/2606.14295) and the [WebExploitBench GitHub Repo](https://github.com/AgentCyberRange/WebExploitBench) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-29.
 
 * 📊 [Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs ](https://github.com/ortegaalfredo/crashbench) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-08-07 **\[Benchmark/GitHub]**
 
-* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2026-09-18 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
+* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2026-09-19 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
 
 * 📊 [SECURE: Benchmarking LLMs for Cybersecurity](https://arxiv.org/abs/2405.20441) **\[Paper/Benchmark]**
 
@@ -241,4 +237,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
