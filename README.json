@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
-                "stars": 393,
+                "stars": 394,
                 "topics": [
                   "adversary-emulation",
                   "ai",
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T13:58:31.384Z",
+    "last_updated": "2026-09-22T12:32:48.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
