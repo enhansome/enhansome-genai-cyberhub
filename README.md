@@ -162,13 +162,13 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [CyberBench: A Multi-Task Benchmark for Evaluating Large Language Models in Cybersecurity](https://www.researchgate.net/publication/378267627_CyberBench_A_Multi-Task_Benchmark_for_Evaluating_Large_Language_Models_in_Cybersecurity) **\[Paper/Benchmark/GitHub]**  GitHub: [jpmorganchase/CyberBench](https://github.com/jpmorganchase/CyberBench) ⚠️ Archived
 
-* 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) ⭐ 27 | 🐛 3 | 🌐 Python | 📅 2026-09-21 **\[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
+* 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) ⭐ 28 | 🐛 3 | 🌐 Python | 📅 2026-09-21 **\[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
 
 * 📊 [AgentCyberRange](https://agentcyberrange.io/) **\[Benchmark/Website]** - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the [Research Paper (arXiv:2606.14295)](https://arxiv.org/abs/2606.14295) and the [WebExploitBench GitHub Repo](https://github.com/AgentCyberRange/WebExploitBench) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-29.
 
 * 📊 [Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs ](https://github.com/ortegaalfredo/crashbench) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-08-07 **\[Benchmark/GitHub]**
 
-* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2026-09-23 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
+* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 9 | 🐛 3 | 🌐 Python | 📅 2026-09-23 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
 
 * 📊 [SECURE: Benchmarking LLMs for Cybersecurity](https://arxiv.org/abs/2405.20441) **\[Paper/Benchmark]**
 
@@ -237,4 +237,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._

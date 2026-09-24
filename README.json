@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9833,
+                "stars": 9832,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -289,7 +289,7 @@
                 "open_issues": 3,
                 "owner": "cisco-foundation-ai",
                 "repo": "faith",
-                "stars": 27,
+                "stars": 28,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -352,7 +352,7 @@
                 "open_issues": 3,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
-                "stars": 8,
+                "stars": 9,
                 "topics": [
                   "agents",
                   "benchmark",
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T12:42:54.037Z",
+    "last_updated": "2026-09-24T12:41:19.514Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
