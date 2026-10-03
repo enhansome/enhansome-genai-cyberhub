@@ -49,7 +49,7 @@
                 "open_issues": 8,
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2225,
+                "stars": 2224,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -186,7 +186,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 458,
+                "stars": 459,
                 "topics": [
                   "agents",
                   "ai",
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:48:09.608Z",
+    "last_updated": "2026-10-03T12:27:15.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
