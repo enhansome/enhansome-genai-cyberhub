@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9844,
+                "stars": 9843,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -122,7 +122,7 @@
                 "id": 1093059675,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2025-11-29T06:47:59Z",
+                "last_commit": "2026-10-05T14:38:27Z",
                 "open_issues": 0,
                 "owner": "CooperCyberCoffee",
                 "repo": "opencti_mcp_server",
@@ -348,7 +348,7 @@
                 "id": 1313945384,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T10:06:47Z",
+                "last_commit": "2026-10-04T21:05:50Z",
                 "open_issues": 4,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T13:08:51.325Z",
+    "last_updated": "2026-10-05T15:54:33.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",

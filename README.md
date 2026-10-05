@@ -128,7 +128,7 @@ awesome-genai-cyberhub/
 This section covers resources related to Model Context Protocol (MCP) servers for security. These systems facilitate more complex and coordinated AI-driven security operations.
 
 * 🖥️ [ORKL MCP Server](https://github.com/fr0gger/MCP_Security) ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2025-01-22 **\[Github]** - A Model Context Protocol (MCP) server for querying the ORKL API.
-* 🖥️ [OpenCTI MCP Server](https://github.com/CooperCyberCoffee/opencti_mcp_server) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2025-11-29 **\[Github]** - A Model Context Protocol (MCP) server for orchestrating and querying OpenCTI via LLM agents.
+* 🖥️ [OpenCTI MCP Server](https://github.com/CooperCyberCoffee/opencti_mcp_server) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-10-05 **\[Github]** - A Model Context Protocol (MCP) server for orchestrating and querying OpenCTI via LLM agents.
 * 🖥️ [External Reconnaissance MCP Server](https://github.com/naebo/mcp-external-recon-server) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2025-04-11 **\[Github]** - A Model Context Protocol (MCP) server for performing active external reconnaissance activities against a domain.
 * 🖥️ [VirusTotal MCP Server](https://smithery.ai/server/@AshfaaqF/mcp-priam-virustotal) **\[Smithery]** - A Model Context Protocol (MCP) server for querying the VirusTotal API.
 * 🖥️ [OTX Alien Vault MCP Server](https://smithery.ai/server/@AshfaaqF/mcp-priam-alienvault) **\[Smithery]** - A Model Context Protocol (MCP) server for querying the Alien Vault API.
@@ -237,4 +237,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
