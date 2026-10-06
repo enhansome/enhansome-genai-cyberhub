@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9847,
+                "stars": 9848,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:26:52.440Z",
+    "last_updated": "2026-10-06T14:07:44.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
