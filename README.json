@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9846,
+                "stars": 9844,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -49,7 +49,7 @@
                 "open_issues": 8,
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2227,
+                "stars": 2228,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -186,7 +186,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 460,
+                "stars": 461,
                 "topics": [
                   "agents",
                   "ai",
@@ -348,7 +348,7 @@
                 "id": 1313945384,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-09T13:15:33Z",
+                "last_commit": "2026-10-09T19:23:40Z",
                 "open_issues": 4,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T14:18:46.743Z",
+    "last_updated": "2026-10-10T13:33:59.450Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
@@ -381,8 +381,8 @@
       "id": 846142167,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-09-19T13:45:19Z",
-      "open_issues": 0,
+      "last_commit": "2026-10-10T08:59:18Z",
+      "open_issues": 1,
       "owner": "Ashfaaq98",
       "repo": "awesome-genai-cyberhub",
       "stars": 59,
@@ -394,7 +394,7 @@
         "llm"
       ]
     },
-    "original_repository_sha": "625741fea2e70266b5592027a946661e3c5878c6",
+    "original_repository_sha": "ebf688af59ce392019bab38f716fab890696820f",
     "enhanced_repository": "enhansome/enhansome-genai-cyberhub",
     "enhanced_repository_description": null,
     "title": "🚀 Awesome GenAI CyberHub ✨ with stars"
