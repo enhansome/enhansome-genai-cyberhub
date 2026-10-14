@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9840,
+                "stars": 9838,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -67,7 +67,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2024-05-07T15:31:28Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
                 "stars": 397,
@@ -186,7 +186,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "agents",
                   "ai",
@@ -307,7 +307,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T12:22:35Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "AgentCyberRange",
                 "repo": "WebExploitBench",
                 "stars": 20,
@@ -348,8 +348,8 @@
                 "id": 1313945384,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T14:38:28Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-14T11:47:15Z",
+                "open_issues": 5,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
                 "stars": 11,
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T14:57:47.094Z",
+    "last_updated": "2026-10-14T12:49:16.646Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
