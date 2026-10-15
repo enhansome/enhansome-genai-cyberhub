@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9838,
+                "stars": 9834,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -67,7 +67,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2024-05-07T15:31:28Z",
-                "open_issues": 3,
+                "open_issues": 2,
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
                 "stars": 397,
@@ -220,7 +220,7 @@
                 "open_issues": 2,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 84,
+                "stars": 85,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -285,8 +285,8 @@
                 "id": 1041702792,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T07:18:41Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-14T22:15:00Z",
+                "open_issues": 3,
                 "owner": "cisco-foundation-ai",
                 "repo": "faith",
                 "stars": 28,
@@ -310,7 +310,7 @@
                 "open_issues": 2,
                 "owner": "AgentCyberRange",
                 "repo": "WebExploitBench",
-                "stars": 20,
+                "stars": 25,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -348,11 +348,11 @@
                 "id": 1313945384,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-14T11:47:15Z",
+                "last_commit": "2026-10-15T10:42:56Z",
                 "open_issues": 5,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
-                "stars": 11,
+                "stars": 12,
                 "topics": [
                   "agents",
                   "benchmark",
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T12:49:16.646Z",
+    "last_updated": "2026-10-15T12:36:24.385Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
@@ -381,7 +381,7 @@
       "id": 846142167,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-11T05:26:18Z",
+      "last_commit": "2026-10-14T19:25:00Z",
       "open_issues": 0,
       "owner": "Ashfaaq98",
       "repo": "awesome-genai-cyberhub",
@@ -394,7 +394,7 @@
         "llm"
       ]
     },
-    "original_repository_sha": "b55c7acad487eb84401796224b9b9a64391ecc5e",
+    "original_repository_sha": "df102f054e92e076b7c0b0fa98acdf483668675f",
     "enhanced_repository": "enhansome/enhansome-genai-cyberhub",
     "enhanced_repository_description": null,
     "title": "🚀 Awesome GenAI CyberHub ✨ with stars"
