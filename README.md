@@ -150,11 +150,13 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 🧠 [PRIMUS: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training](https://arxiv.org/abs/2502.11191) **\[Paper/Dataset/Model]**
 
+* 🧠 [CT0: Cybersecurity Transformer (arXiv:2610.16550)](https://arxiv.org/abs/2610.16550) **\[Paper/Model]** - Asks how small a cybersecurity-specialist model can be and stay useful, noting that frontier models are increasingly reluctant to engage with authorised defensive and offensive security work. CT0-Micro is \~4B params on a Qwen3.5-4B base, distilled on the Cybersecurity AI (CAI) dataset, and serves two modes from one set of weights: a System 1 fast path that answers typed security decisions in a single forward pass without generating a token, and a System 2 tool-using agent, with a confidence gate between them. Solves 21.1% of cybench-subtask against 7.6% for its base, and screens 80 files/second for IOCs. Weights (Apache-2.0) are published as [aliasrobotics/alias3-micro-1026](https://huggingface.co/aliasrobotics/alias3-micro-1026) — the card calls it the first incarnation of CT0 rather than CT0-Micro. The CAI training dataset itself is proprietary.
+
 ***
 
 ### 🥉 Benchmarks & Datasets
 
-* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 462 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-18 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
+* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 463 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-18 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
 
 * 📊 [CyberGym-E2E (sunblaze-ucb)](https://github.com/sunblaze-ucb/cybergym-e2e) ⭐ 85 | 🐛 2 | 🌐 Shell | 📅 2026-10-07 **\[Benchmark/GitHub]** - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).
 
@@ -168,7 +170,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs ](https://github.com/ortegaalfredo/crashbench) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-08-07 **\[Benchmark/GitHub]**
 
-* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-10-17 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
+* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 12 | 🐛 3 | 🌐 Python | 📅 2026-10-18 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
 
 * 📊 [SECURE: Benchmarking LLMs for Cybersecurity](https://arxiv.org/abs/2405.20441) **\[Paper/Benchmark]**
 
@@ -237,4 +239,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

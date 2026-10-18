@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9835,
+                "stars": 9837,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -186,7 +186,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 462,
+                "stars": 463,
                 "topics": [
                   "agents",
                   "ai",
@@ -348,7 +348,7 @@
                 "id": 1313945384,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T09:43:46Z",
+                "last_commit": "2026-10-18T05:59:28Z",
                 "open_issues": 3,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:32:43.047Z",
+    "last_updated": "2026-10-18T12:01:24.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
@@ -381,7 +381,7 @@
       "id": 846142167,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-15T17:59:19Z",
+      "last_commit": "2026-10-17T17:35:22Z",
       "open_issues": 0,
       "owner": "Ashfaaq98",
       "repo": "awesome-genai-cyberhub",
@@ -394,7 +394,7 @@
         "llm"
       ]
     },
-    "original_repository_sha": "47d1ca222feaa1ca7c7985ed65d3cc3336feb6da",
+    "original_repository_sha": "5ceecba3c1d27f59fdde8eb531131d31a6f360ba",
     "enhanced_repository": "enhansome/enhansome-genai-cyberhub",
     "enhanced_repository_description": null,
     "title": "🚀 Awesome GenAI CyberHub ✨ with stars"
