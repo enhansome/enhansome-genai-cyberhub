@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9837,
+                "stars": 9838,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
-                "stars": 397,
+                "stars": 398,
                 "topics": [
                   "adversary-emulation",
                   "ai",
@@ -186,7 +186,7 @@
                 "open_issues": 7,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 463,
+                "stars": 464,
                 "topics": [
                   "agents",
                   "ai",
@@ -220,7 +220,7 @@
                 "open_issues": 2,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 85,
+                "stars": 87,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -285,7 +285,7 @@
                 "id": 1041702792,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T19:52:15Z",
+                "last_commit": "2026-10-19T11:06:27Z",
                 "open_issues": 4,
                 "owner": "cisco-foundation-ai",
                 "repo": "faith",
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T12:01:24.538Z",
+    "last_updated": "2026-10-19T14:36:29.311Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
