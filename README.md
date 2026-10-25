@@ -85,7 +85,7 @@ awesome-genai-cyberhub/
 
 * 🤖 [CAI (aliasrobotics/cai)](https://github.com/aliasrobotics/cai) ⚠️ Archived **\[Tool/GitHub]** - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).
 
-* 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,226 | 🐛 8 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
+* 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,227 | 🐛 8 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
 
 * 🤖 [Cyber Security llm Agents ](https://github.com/NVISOsecurity/cyber-security-llm-agents) ⭐ 397 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-05-07 **\[Tool/GitHub]** - A collection of agents using LLMs (built on AutoGen) to perform common cybersecurity tasks, showcased at RSAC 2024.
 
@@ -166,11 +166,11 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) ⭐ 28 | 🐛 4 | 🌐 Python | 📅 2026-10-19 **\[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
 
-* 📊 [AgentCyberRange](https://agentcyberrange.io/) **\[Benchmark/Website]** - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the [Research Paper (arXiv:2606.14295)](https://arxiv.org/abs/2606.14295) and the [WebExploitBench GitHub Repo](https://github.com/AgentCyberRange/WebExploitBench) ⭐ 27 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-29.
+* 📊 [AgentCyberRange](https://agentcyberrange.io/) **\[Benchmark/Website]** - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the [Research Paper (arXiv:2606.14295)](https://arxiv.org/abs/2606.14295) and the [WebExploitBench GitHub Repo](https://github.com/AgentCyberRange/WebExploitBench) ⭐ 28 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-29.
 
 * 📊 [Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs ](https://github.com/ortegaalfredo/crashbench) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-08-07 **\[Benchmark/GitHub]**
 
-* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 13 | 🐛 6 | 🌐 Python | 📅 2026-10-23 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
+* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-10-25 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
 
 * 📊 [SECURE: Benchmarking LLMs for Cybersecurity](https://arxiv.org/abs/2405.20441) **\[Paper/Benchmark]**
 
@@ -239,4 +239,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
