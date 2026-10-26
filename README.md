@@ -150,13 +150,13 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 🧠 [PRIMUS: A Pioneering Collection of Open-Source Datasets for Cybersecurity LLM Training](https://arxiv.org/abs/2502.11191) **\[Paper/Dataset/Model]**
 
-* 🧠 [CT0: Cybersecurity Transformer (arXiv:2610.16550)](https://arxiv.org/abs/2610.16550) **\[Paper/Model]** - Asks how small a cybersecurity-specialist model can be and stay useful, noting that frontier models are increasingly reluctant to engage with authorised defensive and offensive security work. CT0-Micro is \~4B params on a Qwen3.5-4B base, distilled on the Cybersecurity AI (CAI) dataset, and serves two modes from one set of weights: a System 1 fast path that answers typed security decisions in a single forward pass without generating a token, and a System 2 tool-using agent, with a confidence gate between them. Solves 21.1% of cybench-subtask against 7.6% for its base, and screens 80 files/second for IOCs. Weights (Apache-2.0) are published as [aliasrobotics/alias3-micro-1026](https://huggingface.co/aliasrobotics/alias3-micro-1026) — the card calls it the first incarnation of CT0 rather than CT0-Micro. The CAI training dataset itself is proprietary.
+* 🧠 [CT0: Cybersecurity Transformer (arXiv:2610.16550)](https://arxiv.org/abs/2610.16550) **\[Paper/Model]** - A \~4B cybersecurity-specialist model on a Qwen3.5-4B base, serving two modes from one checkpoint: a fast path answering typed security decisions without generating a token, and a tool-using agent.[aliasrobotics/alias3-micro-1026](https://huggingface.co/aliasrobotics/alias3-micro-1026).
 
 ***
 
 ### 🥉 Benchmarks & Datasets
 
-* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 466 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-22 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
+* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 467 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-22 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
 
 * 📊 [CyberGym-E2E (sunblaze-ucb)](https://github.com/sunblaze-ucb/cybergym-e2e) ⭐ 88 | 🐛 2 | 🌐 Shell | 📅 2026-10-07 **\[Benchmark/GitHub]** - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).
 
@@ -164,13 +164,13 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [CyberBench: A Multi-Task Benchmark for Evaluating Large Language Models in Cybersecurity](https://www.researchgate.net/publication/378267627_CyberBench_A_Multi-Task_Benchmark_for_Evaluating_Large_Language_Models_in_Cybersecurity) **\[Paper/Benchmark/GitHub]**  GitHub: [jpmorganchase/CyberBench](https://github.com/jpmorganchase/CyberBench) ⚠️ Archived
 
-* 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) ⭐ 28 | 🐛 4 | 🌐 Python | 📅 2026-10-19 **\[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
+* 📊 [AgentCyberRange](https://agentcyberrange.io/) **\[Benchmark/Website]** - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the [Research Paper (arXiv:2606.14295)](https://arxiv.org/abs/2606.14295) and the [WebExploitBench GitHub Repo](https://github.com/AgentCyberRange/WebExploitBench) ⭐ 31 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-29.
 
-* 📊 [AgentCyberRange](https://agentcyberrange.io/) **\[Benchmark/Website]** - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the [Research Paper (arXiv:2606.14295)](https://arxiv.org/abs/2606.14295) and the [WebExploitBench GitHub Repo](https://github.com/AgentCyberRange/WebExploitBench) ⭐ 28 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-29.
+* 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) ⭐ 28 | 🐛 5 | 🌐 Python | 📅 2026-10-26 **\[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
 
 * 📊 [Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs ](https://github.com/ortegaalfredo/crashbench) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-08-07 **\[Benchmark/GitHub]**
 
-* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 13 | 🐛 4 | 🌐 Python | 📅 2026-10-25 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
+* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 13 | 🐛 3 | 🌐 Python | 📅 2026-10-26 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
 
 * 📊 [SECURE: Benchmarking LLMs for Cybersecurity](https://arxiv.org/abs/2405.20441) **\[Paper/Benchmark]**
 
@@ -216,6 +216,12 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [CyberThreat-Eval: Can Large Language Models Automate Real-World Threat Research?](https://arxiv.org/abs/2603.09452) **\[Paper/Benchmark]** - An expert-annotated benchmark collected from the daily CTI workflow of a world-leading company to assess LLMs on practical threat intelligence tasks (triage, deep search, and TI drafting).
 
+* 📊 [ProtoArena: Can AI Agents Discover and Exploit Real-World Cross-Component Protocol Vulnerabilities? (arXiv:2610.17837)](https://arxiv.org/abs/2610.17837) **\[Paper/Benchmark]** - Targets vulnerabilities that arise between protocol participants rather than inside one program — inconsistencies in message interpretation, timing, state, or trust assumptions. 80 black-box exploitation environments across 11 protocol domains and 7 attack categories, with agents interacting with live systems and no source access. Claude Opus 4.8 leads at 48.8% under guidance but only 12.5% under effect-directed black-box exploration.
+
+* 📊 [CWE-bench: Refocusing Agentic Security from Exploitation to Defense (arXiv:2610.17020)](https://arxiv.org/abs/2610.17020) **\[Paper/Benchmark]** - Argues that a working exploit never proves an agent can make software safe: an attacker needs one vulnerability, a defender must fix them all. 120 held-out repository audit-and-repair tasks spanning 73 CWE types, eight languages, and all OWASP Top 10 2025 categories, where the agent is told neither the weakness, nor its location, nor how many exist, and each patch must block the exploit while preserving functionality. Best agents reach 68% pass\@1. The task set is deliberately private to resist contamination.
+
+* 📊 [Discovery or Memorization? A Faithful Benchmark for Real-World Business-Logic Vulnerability Discovery (arXiv:2610.17542)](https://arxiv.org/abs/2610.17542) **\[Paper/Benchmark]** - Introduces AnonVul, 132 cross-language business-logic vulnerabilities anonymized so models cannot recognize the underlying project, with oracles injected from expert specifications and differentially verified PoCs. Six LLM agents (Claude Opus 4.8, Claude Sonnet 4.6, GPT-5.4, GLM 5.2, Kimi K2.6, MiniMax M2.5) top out at 23.11%. Restoring software identity lifts discovery from 21.25% to 40.83% — evidence that published benchmarks substantially measure memorization.
+
 ***
 
 ## How to Navigate & Contribute
@@ -239,4 +245,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
