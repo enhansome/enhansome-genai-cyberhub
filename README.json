@@ -289,7 +289,7 @@
                 "open_issues": 2,
                 "owner": "AgentCyberRange",
                 "repo": "WebExploitBench",
-                "stars": 31,
+                "stars": 33,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -317,6 +317,33 @@
             },
             {
               "node_type": "item",
+              "title": "📊 StealthBench",
+              "description": "[Benchmark/GitHub] - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "StealthBench is a benchmark for evaluating whether autonomous agents operate with the operational security (OPSEC) discipline that separates a successful security engagement from one that gets detected and shut down.",
+                "homepage": "https://stealthbench.com/",
+                "id": 1313945384,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-10-27T21:09:01Z",
+                "open_issues": 5,
+                "owner": "GangGreenTemperTatum",
+                "repo": "stealthbench",
+                "stars": 15,
+                "topics": [
+                  "agents",
+                  "benchmark",
+                  "offensive",
+                  "opsec",
+                  "security"
+                ]
+              },
+              "first_seen": "2026-08-28T19:23:32.490Z"
+            },
+            {
+              "node_type": "item",
               "title": "📊 Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs",
               "description": "[Benchmark/GitHub]",
               "children": [],
@@ -335,33 +362,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
-            },
-            {
-              "node_type": "item",
-              "title": "📊 StealthBench",
-              "description": "[Benchmark/GitHub] - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "StealthBench is a benchmark for evaluating whether autonomous agents operate with the operational security (OPSEC) discipline that separates a successful security engagement from one that gets detected and shut down.",
-                "homepage": "https://stealthbench.com/",
-                "id": 1313945384,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2026-10-27T12:33:46Z",
-                "open_issues": 5,
-                "owner": "GangGreenTemperTatum",
-                "repo": "stealthbench",
-                "stars": 13,
-                "topics": [
-                  "agents",
-                  "benchmark",
-                  "offensive",
-                  "opsec",
-                  "security"
-                ]
-              },
-              "first_seen": "2026-08-28T19:23:32.490Z"
             }
           ],
           "description": null,
@@ -373,7 +373,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T13:08:03.405Z",
+    "last_updated": "2026-10-28T13:57:38.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
