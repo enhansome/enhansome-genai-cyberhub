@@ -168,9 +168,13 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) ⭐ 28 | 🐛 5 | 🌐 Python | 📅 2026-10-26 **\[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
 
-* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 15 | 🐛 5 | 🌐 Python | 📅 2026-10-27 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
+* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 15 | 🐛 5 | 🌐 Python | 📅 2026-10-29 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
 
 * 📊 [Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs ](https://github.com/ortegaalfredo/crashbench) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-08-07 **\[Benchmark/GitHub]**
+
+* 📊 [CyberDual: AI Attackers versus AI Code Reviewers in Real Software Maintenance (arXiv:2610.34435)](https://arxiv.org/abs/2610.34435) **\[Paper/Benchmark]** - Attacker agents hide exploitable bugs in real open-source maintenance and reviewer agents hunt them, with the attacker's PoC rerun to decide each match. Reviewers catch 85–91% of 1,088 attacks; windows rebuild quarterly from upstream, so it cannot saturate. Code: [CyberDual/CyberDual](https://github.com/CyberDual/CyberDual) ⭐ 4 | 🐛 0 | 🌐 C | 📅 2026-10-25.
+
+* 📊 [SecLog-Bench: A Scalable Benchmark for Cybersecurity Log Reasoning with Scaffolded Evidence (arXiv:2610.31000)](https://arxiv.org/abs/2610.31000) **\[Paper/Benchmark]** - 29 attack scenarios with multi-source logs and step-by-step evidence-chain annotations rather than bare attack labels; the best of eight LLMs reaches only 44.44% accuracy. Code: [SecLog-Open/SecLog](https://github.com/SecLog-Open/SecLog) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2026-10-23.
 
 * 📊 [SECURE: Benchmarking LLMs for Cybersecurity](https://arxiv.org/abs/2405.20441) **\[Paper/Benchmark]**
 
@@ -245,4 +249,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
