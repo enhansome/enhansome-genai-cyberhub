@@ -49,7 +49,7 @@
                 "open_issues": 8,
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2230,
+                "stars": 2231,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -220,7 +220,7 @@
                 "open_issues": 3,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 93,
+                "stars": 94,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -289,7 +289,7 @@
                 "open_issues": 2,
                 "owner": "AgentCyberRange",
                 "repo": "WebExploitBench",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T16:59:10.447Z",
+    "last_updated": "2026-11-03T14:59:52.897Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
