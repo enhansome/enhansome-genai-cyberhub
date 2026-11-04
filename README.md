@@ -85,7 +85,7 @@ awesome-genai-cyberhub/
 
 * 🤖 [CAI (aliasrobotics/cai)](https://github.com/aliasrobotics/cai) ⚠️ Archived **\[Tool/GitHub]** - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).
 
-* 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,231 | 🐛 8 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
+* 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,232 | 🐛 8 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
 
 * 🤖 [Cyber Security llm Agents ](https://github.com/NVISOsecurity/cyber-security-llm-agents) ⭐ 398 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-05-07 **\[Tool/GitHub]** - A collection of agents using LLMs (built on AutoGen) to perform common cybersecurity tasks, showcased at RSAC 2024.
 
@@ -156,7 +156,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 ### 🥉 Benchmarks & Datasets
 
-* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 467 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-22 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
+* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 467 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-22 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
 
 * 📊 [CyberGym-E2E (sunblaze-ucb)](https://github.com/sunblaze-ucb/cybergym-e2e) ⭐ 94 | 🐛 3 | 🌐 Shell | 📅 2026-10-07 **\[Benchmark/GitHub]** - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).
 
@@ -174,7 +174,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [CyberDual: AI Attackers versus AI Code Reviewers in Real Software Maintenance (arXiv:2610.34435)](https://arxiv.org/abs/2610.34435) **\[Paper/Benchmark]** - Attacker agents hide exploitable bugs in real open-source maintenance and reviewer agents hunt them, with the attacker's PoC rerun to decide each match. Reviewers catch 85–91% of 1,088 attacks; windows rebuild quarterly from upstream, so it cannot saturate. Code: [CyberDual/CyberDual](https://github.com/CyberDual/CyberDual) ⭐ 5 | 🐛 0 | 🌐 C | 📅 2026-10-25.
 
-* 📊 [SecLog-Bench: A Scalable Benchmark for Cybersecurity Log Reasoning with Scaffolded Evidence (arXiv:2610.31000)](https://arxiv.org/abs/2610.31000) **\[Paper/Benchmark]** - 29 attack scenarios with multi-source logs and step-by-step evidence-chain annotations rather than bare attack labels; the best of eight LLMs reaches only 44.44% accuracy. Code: [SecLog-Open/SecLog](https://github.com/SecLog-Open/SecLog) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2026-10-23.
+* 📊 [SecLog-Bench: A Scalable Benchmark for Cybersecurity Log Reasoning with Scaffolded Evidence (arXiv:2610.31000)](https://arxiv.org/abs/2610.31000) **\[Paper/Benchmark]** - 29 attack scenarios with multi-source logs and step-by-step evidence-chain annotations rather than bare attack labels; the best of eight LLMs reaches only 44.44% accuracy. Code: [SecLog-Open/SecLog](https://github.com/SecLog-Open/SecLog) ⭐ 2 | 🐛 0 | 🌐 C | 📅 2026-11-04.
 
 * 📊 [SECURE: Benchmarking LLMs for Cybersecurity](https://arxiv.org/abs/2405.20441) **\[Paper/Benchmark]**
 
@@ -249,4 +249,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._

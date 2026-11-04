@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9847,
+                "stars": 9845,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -49,7 +49,7 @@
                 "open_issues": 8,
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2231,
+                "stars": 2232,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -183,7 +183,7 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-22T13:27:56Z",
-                "open_issues": 10,
+                "open_issues": 12,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
                 "stars": 467,
@@ -396,7 +396,7 @@
                 "id": 1400078402,
                 "language": "C",
                 "license": "MIT",
-                "last_commit": "2026-10-23T03:17:40Z",
+                "last_commit": "2026-11-04T15:00:32Z",
                 "open_issues": 0,
                 "owner": "SecLog-Open",
                 "repo": "SecLog",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:59:52.897Z",
+    "last_updated": "2026-11-04T15:20:34.625Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
@@ -427,7 +427,7 @@
       "open_issues": 0,
       "owner": "Ashfaaq98",
       "repo": "awesome-genai-cyberhub",
-      "stars": 61,
+      "stars": 62,
       "topics": [
         "ai",
         "awesome-list",
