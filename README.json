@@ -220,7 +220,7 @@
                 "open_issues": 3,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 94,
+                "stars": 95,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T15:20:34.625Z",
+    "last_updated": "2026-11-05T15:23:12.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
@@ -423,11 +423,11 @@
       "id": 846142167,
       "language": null,
       "license": "MIT",
-      "last_commit": "2026-10-31T18:11:48Z",
+      "last_commit": "2026-11-05T10:55:35Z",
       "open_issues": 0,
       "owner": "Ashfaaq98",
       "repo": "awesome-genai-cyberhub",
-      "stars": 62,
+      "stars": 63,
       "topics": [
         "ai",
         "awesome-list",
@@ -436,7 +436,7 @@
         "llm"
       ]
     },
-    "original_repository_sha": "7805bf69924298c5fdff72ebc0e4b3bdd347c4e2",
+    "original_repository_sha": "ef25b7ccaf637c2e7a8d45f012395e3f7bf2822f",
     "enhanced_repository": "enhansome/enhansome-genai-cyberhub",
     "enhanced_repository_description": null,
     "title": "🚀 Awesome GenAI CyberHub ✨ with stars"
