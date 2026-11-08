@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9849,
+                "stars": 9853,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
-                "stars": 398,
+                "stars": 399,
                 "topics": [
                   "adversary-emulation",
                   "ai",
@@ -186,7 +186,7 @@
                 "open_issues": 12,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 468,
+                "stars": 469,
                 "topics": [
                   "agents",
                   "ai",
@@ -327,8 +327,8 @@
                 "id": 1313945384,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-07T05:45:34Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-08T13:22:07Z",
+                "open_issues": 4,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
                 "stars": 15,
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T13:55:12.417Z",
+    "last_updated": "2026-11-08T14:14:56.982Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
@@ -427,7 +427,7 @@
       "open_issues": 0,
       "owner": "Ashfaaq98",
       "repo": "awesome-genai-cyberhub",
-      "stars": 63,
+      "stars": 64,
       "topics": [
         "ai",
         "awesome-list",
