@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9859,
+                "stars": 9857,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -49,7 +49,7 @@
                 "open_issues": 8,
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2232,
+                "stars": 2231,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -220,7 +220,7 @@
                 "open_issues": 3,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 104,
+                "stars": 105,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -322,12 +322,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "StealthBench is a benchmark for evaluating whether autonomous agents operate with the operational security (OPSEC) discipline that separates a successful security engagement from one that gets detected and shut down.",
+                "description": "StealthBench (arXiv:2607.26314) is a benchmark for evaluating whether autonomous agents operate with the operational security (OPSEC) discipline that separates a successful security engagement from one that gets detected and shut down.",
                 "homepage": "https://stealthbench.com/",
                 "id": 1313945384,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T01:35:45Z",
+                "last_commit": "2026-11-12T23:38:53Z",
                 "open_issues": 5,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:55:39.446Z",
+    "last_updated": "2026-11-13T15:18:06.416Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
