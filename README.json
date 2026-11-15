@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9858,
+                "stars": 9859,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
-                "stars": 402,
+                "stars": 403,
                 "topics": [
                   "adversary-emulation",
                   "ai",
@@ -186,7 +186,7 @@
                 "open_issues": 12,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 469,
+                "stars": 471,
                 "topics": [
                   "agents",
                   "ai",
@@ -220,7 +220,7 @@
                 "open_issues": 3,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 105,
+                "stars": 106,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -286,7 +286,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-07-29T12:22:35Z",
-                "open_issues": 2,
+                "open_issues": 0,
                 "owner": "AgentCyberRange",
                 "repo": "WebExploitBench",
                 "stars": 34,
@@ -327,7 +327,7 @@
                 "id": 1313945384,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-14T03:53:45Z",
+                "last_commit": "2026-11-15T05:07:39Z",
                 "open_issues": 5,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T14:04:17.507Z",
+    "last_updated": "2026-11-15T14:41:22.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",

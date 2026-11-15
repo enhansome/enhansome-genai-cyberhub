@@ -87,7 +87,7 @@ awesome-genai-cyberhub/
 
 * 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,230 | 🐛 8 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
 
-* 🤖 [Cyber Security llm Agents ](https://github.com/NVISOsecurity/cyber-security-llm-agents) ⭐ 402 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-05-07 **\[Tool/GitHub]** - A collection of agents using LLMs (built on AutoGen) to perform common cybersecurity tasks, showcased at RSAC 2024.
+* 🤖 [Cyber Security llm Agents ](https://github.com/NVISOsecurity/cyber-security-llm-agents) ⭐ 403 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-05-07 **\[Tool/GitHub]** - A collection of agents using LLMs (built on AutoGen) to perform common cybersecurity tasks, showcased at RSAC 2024.
 
 * 📄 [Generative AI in Cybersecurity: A Comprehensive Review of LLM Applications and Vulnerabilities](https://arxiv.org/html/2405.12750) **\[Paper/Review]** - Explores LLM applications in hardware security, intrusion detection, CTI, malware/phishing detection, LLM vulnerabilities (prompt injection, data poisoning), mitigation strategies, and evaluates LLMs in cybersecurity knowledge.
 
@@ -156,19 +156,19 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 ### 🥉 Benchmarks & Datasets
 
-* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 469 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-22 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
+* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 471 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-22 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
 
-* 📊 [CyberGym-E2E (sunblaze-ucb)](https://github.com/sunblaze-ucb/cybergym-e2e) ⭐ 105 | 🐛 3 | 🌐 Shell | 📅 2026-10-07 **\[Benchmark/GitHub]** - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).
+* 📊 [CyberGym-E2E (sunblaze-ucb)](https://github.com/sunblaze-ucb/cybergym-e2e) ⭐ 106 | 🐛 3 | 🌐 Shell | 📅 2026-10-07 **\[Benchmark/GitHub]** - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).
 
 * 📊 [PhishLLM](https://github.com/code-philia/PhishLLM) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2026-06-04 **\[Benchmark/Tool/GitHub]**  See also: [Project Page](https://sites.google.com/view/phishllm/home)
 
 * 📊 [CyberBench: A Multi-Task Benchmark for Evaluating Large Language Models in Cybersecurity](https://www.researchgate.net/publication/378267627_CyberBench_A_Multi-Task_Benchmark_for_Evaluating_Large_Language_Models_in_Cybersecurity) **\[Paper/Benchmark/GitHub]**  GitHub: [jpmorganchase/CyberBench](https://github.com/jpmorganchase/CyberBench) ⚠️ Archived
 
-* 📊 [AgentCyberRange](https://agentcyberrange.io/) **\[Benchmark/Website]** - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the [Research Paper (arXiv:2606.14295)](https://arxiv.org/abs/2606.14295) and the [WebExploitBench GitHub Repo](https://github.com/AgentCyberRange/WebExploitBench) ⭐ 34 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-29.
+* 📊 [AgentCyberRange](https://agentcyberrange.io/) **\[Benchmark/Website]** - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the [Research Paper (arXiv:2606.14295)](https://arxiv.org/abs/2606.14295) and the [WebExploitBench GitHub Repo](https://github.com/AgentCyberRange/WebExploitBench) ⭐ 34 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-29.
 
 * 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) ⭐ 29 | 🐛 5 | 🌐 Python | 📅 2026-11-09 **\[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
 
-* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 15 | 🐛 5 | 🌐 Python | 📅 2026-11-14 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
+* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 15 | 🐛 5 | 🌐 Python | 📅 2026-11-15 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
 
 * 📊 [Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs ](https://github.com/ortegaalfredo/crashbench) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-08-07 **\[Benchmark/GitHub]**
 
@@ -251,4 +251,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
