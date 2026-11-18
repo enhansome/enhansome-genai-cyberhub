@@ -160,7 +160,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [CyberGym-E2E (sunblaze-ucb)](https://github.com/sunblaze-ucb/cybergym-e2e) ⭐ 108 | 🐛 2 | 🌐 Shell | 📅 2026-11-17 **\[Benchmark/GitHub]** - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).
 
-* 📊 [PhishLLM](https://github.com/code-philia/PhishLLM) ⭐ 40 | 🐛 0 | 🌐 Python | 📅 2026-06-04 **\[Benchmark/Tool/GitHub]**  See also: [Project Page](https://sites.google.com/view/phishllm/home)
+* 📊 [PhishLLM](https://github.com/code-philia/PhishLLM) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-06-04 **\[Benchmark/Tool/GitHub]**  See also: [Project Page](https://sites.google.com/view/phishllm/home)
 
 * 📊 [CyberBench: A Multi-Task Benchmark for Evaluating Large Language Models in Cybersecurity](https://www.researchgate.net/publication/378267627_CyberBench_A_Multi-Task_Benchmark_for_Evaluating_Large_Language_Models_in_Cybersecurity) **\[Paper/Benchmark/GitHub]**  GitHub: [jpmorganchase/CyberBench](https://github.com/jpmorganchase/CyberBench) ⚠️ Archived
 
@@ -228,6 +228,8 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [The Next Challenge for Agentic Cybersecurity: A Realistic, Contamination-Free Reverse Engineering Benchmark (SRE-Bench, arXiv:2608.11469)](https://arxiv.org/abs/2608.11469) **\[Paper/Benchmark]** - 1,572 graded binary reverse-engineering tasks across firmware, malware, games, file formats and protocols, built from 19 unseen programs; frontier agents fully solve under a third. [Project page](https://daplab.cs.columbia.edu/benchmarks/sre-bench/).
 
+* 📊 [BountyBench: Dollar Impact of AI Agent Attackers and Defenders on Real-World Cybersecurity Systems (arXiv:2505.15216)](https://arxiv.org/abs/2505.15216) **\[Paper/Benchmark]** - Agents detect, exploit and patch 40 real bug bounties ($10–$30,485) across 25 live codebases; agents patch far better (up to 90%) than they find new bugs (12.5% at best).
+
 ***
 
 ## How to Navigate & Contribute
@@ -251,4 +253,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
