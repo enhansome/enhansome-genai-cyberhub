@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9867,
+                "stars": 9868,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -49,7 +49,7 @@
                 "open_issues": 8,
                 "owner": "FoundationAgents",
                 "repo": "awesome-foundation-agents",
-                "stars": 2232,
+                "stars": 2233,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
-                "stars": 404,
+                "stars": 405,
                 "topics": [
                   "adversary-emulation",
                   "ai",
@@ -126,7 +126,7 @@
                 "open_issues": 0,
                 "owner": "CooperCyberCoffee",
                 "repo": "opencti_mcp_server",
-                "stars": 29,
+                "stars": 28,
                 "topics": [
                   "ai",
                   "claude",
@@ -186,7 +186,7 @@
                 "open_issues": 12,
                 "owner": "paradigmxyz",
                 "repo": "evmbench",
-                "stars": 471,
+                "stars": 472,
                 "topics": [
                   "agents",
                   "ai",
@@ -216,11 +216,11 @@
                 "id": 1239193196,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-17T03:19:04Z",
+                "last_commit": "2026-11-18T21:39:43Z",
                 "open_issues": 2,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 108,
+                "stars": 109,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -379,7 +379,7 @@
                 "open_issues": 0,
                 "owner": "CyberDual",
                 "repo": "CyberDual",
-                "stars": 7,
+                "stars": 8,
                 "topics": []
               },
               "first_seen": "2026-10-29T14:09:00.154Z"
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T16:22:37.480Z",
+    "last_updated": "2026-11-19T16:29:48.405Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
