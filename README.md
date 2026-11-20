@@ -87,7 +87,7 @@ awesome-genai-cyberhub/
 
 * 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,233 | 🐛 8 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
 
-* 🤖 [Cyber Security llm Agents ](https://github.com/NVISOsecurity/cyber-security-llm-agents) ⭐ 405 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-05-07 **\[Tool/GitHub]** - A collection of agents using LLMs (built on AutoGen) to perform common cybersecurity tasks, showcased at RSAC 2024.
+* 🤖 [Cyber Security llm Agents ](https://github.com/NVISOsecurity/cyber-security-llm-agents) ⭐ 404 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-05-07 **\[Tool/GitHub]** - A collection of agents using LLMs (built on AutoGen) to perform common cybersecurity tasks, showcased at RSAC 2024.
 
 * 📄 [Generative AI in Cybersecurity: A Comprehensive Review of LLM Applications and Vulnerabilities](https://arxiv.org/html/2405.12750) **\[Paper/Review]** - Explores LLM applications in hardware security, intrusion detection, CTI, malware/phishing detection, LLM vulnerabilities (prompt injection, data poisoning), mitigation strategies, and evaluates LLMs in cybersecurity knowledge.
 
@@ -129,7 +129,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 🖥️ [ORKL MCP Server](https://github.com/fr0gger/MCP_Security) ⭐ 52 | 🐛 2 | 🌐 Python | 📅 2025-01-22 **\[Github]** - A Model Context Protocol (MCP) server for querying the ORKL API.
 * 🖥️ [OpenCTI MCP Server](https://github.com/CooperCyberCoffee/opencti_mcp_server) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-10-05 **\[Github]** - A Model Context Protocol (MCP) server for orchestrating and querying OpenCTI via LLM agents.
-* 🖥️ [External Reconnaissance MCP Server](https://github.com/naebo/mcp-external-recon-server) ⭐ 14 | 🐛 0 | 🌐 Python | 📅 2025-04-11 **\[Github]** - A Model Context Protocol (MCP) server for performing active external reconnaissance activities against a domain.
+* 🖥️ [External Reconnaissance MCP Server](https://github.com/naebo/mcp-external-recon-server) ⭐ 15 | 🐛 0 | 🌐 Python | 📅 2025-04-11 **\[Github]** - A Model Context Protocol (MCP) server for performing active external reconnaissance activities against a domain.
 * 🖥️ [VirusTotal MCP Server](https://smithery.ai/server/@AshfaaqF/mcp-priam-virustotal) **\[Smithery]** - A Model Context Protocol (MCP) server for querying the VirusTotal API.
 * 🖥️ [OTX Alien Vault MCP Server](https://smithery.ai/server/@AshfaaqF/mcp-priam-alienvault) **\[Smithery]** - A Model Context Protocol (MCP) server for querying the Alien Vault API.
 * 🖥️ [RSTCloud MCP Server](https://smithery.ai/server/@AshfaaqF/mcp-priam-rstcloud) **\[Smithery]** - A Model Context Protocol (MCP) server for querying the RSTCloud API.
@@ -253,4 +253,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
