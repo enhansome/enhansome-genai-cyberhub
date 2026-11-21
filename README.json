@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9869,
+                "stars": 9874,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -220,7 +220,7 @@
                 "open_issues": 2,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 109,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -289,7 +289,7 @@
                 "open_issues": 0,
                 "owner": "AgentCyberRange",
                 "repo": "WebExploitBench",
-                "stars": 35,
+                "stars": 36,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -327,7 +327,7 @@
                 "id": 1313945384,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-17T02:49:48Z",
+                "last_commit": "2026-11-21T03:12:37Z",
                 "open_issues": 6,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T16:03:07.293Z",
+    "last_updated": "2026-11-21T15:15:40.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
