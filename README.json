@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9873,
+                "stars": 9874,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
-                "stars": 405,
+                "stars": 406,
                 "topics": [
                   "adversary-emulation",
                   "ai",
@@ -220,7 +220,7 @@
                 "open_issues": 2,
                 "owner": "sunblaze-ucb",
                 "repo": "cybergym-e2e",
-                "stars": 110,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -242,6 +242,27 @@
                 "owner": "code-philia",
                 "repo": "PhishVLM",
                 "stars": 39,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T19:23:32.490Z"
+            },
+            {
+              "node_type": "item",
+              "title": "📊 AgentCyberRange",
+              "description": "[Benchmark/Website] - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the Research Paper (arXiv:2606.14295) and the WebExploitBench GitHub Repo.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1258846913,
+                "language": "JavaScript",
+                "license": "Apache-2.0",
+                "last_commit": "2026-07-29T12:22:35Z",
+                "open_issues": 0,
+                "owner": "AgentCyberRange",
+                "repo": "WebExploitBench",
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
@@ -270,27 +291,6 @@
                   "large-language-models",
                   "llms"
                 ]
-              },
-              "first_seen": "2026-08-28T19:23:32.490Z"
-            },
-            {
-              "node_type": "item",
-              "title": "📊 AgentCyberRange",
-              "description": "[Benchmark/Website] - An open, multi-range infrastructure for measuring autonomous cyber attack capability across web exploitation and post-exploitation stages. See also the Research Paper (arXiv:2606.14295) and the WebExploitBench GitHub Repo.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1258846913,
-                "language": "JavaScript",
-                "license": "Apache-2.0",
-                "last_commit": "2026-07-29T12:22:35Z",
-                "open_issues": 0,
-                "owner": "AgentCyberRange",
-                "repo": "WebExploitBench",
-                "stars": 36,
-                "topics": []
               },
               "first_seen": "2026-08-28T19:23:32.490Z"
             },
@@ -327,7 +327,7 @@
                 "id": 1313945384,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-22T09:16:20Z",
+                "last_commit": "2026-11-23T05:04:39Z",
                 "open_issues": 6,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
@@ -376,7 +376,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-25T17:04:28Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "CyberDual",
                 "repo": "CyberDual",
                 "stars": 8,
@@ -415,7 +415,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T15:12:52.179Z",
+    "last_updated": "2026-11-23T19:10:17.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
