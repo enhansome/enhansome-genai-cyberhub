@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9874,
+                "stars": 9876,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -352,7 +352,7 @@
                 "open_issues": 6,
                 "owner": "GangGreenTemperTatum",
                 "repo": "stealthbench",
-                "stars": 15,
+                "stars": 17,
                 "topics": [
                   "agents",
                   "benchmark",
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T18:49:35.256Z",
+    "last_updated": "2026-11-25T17:55:06.145Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
