@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "aliasrobotics",
                 "repo": "cai",
-                "stars": 9876,
+                "stars": 9882,
                 "topics": [
                   "artificial-intelligence",
                   "cybersecurity",
@@ -70,7 +70,7 @@
                 "open_issues": 2,
                 "owner": "NVISOsecurity",
                 "repo": "cyber-security-llm-agents",
-                "stars": 407,
+                "stars": 408,
                 "topics": [
                   "adversary-emulation",
                   "ai",
@@ -436,7 +436,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T17:55:06.145Z",
+    "last_updated": "2026-11-26T17:40:03.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of LLM driven Cyber security Resources",
