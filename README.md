@@ -85,7 +85,7 @@ awesome-genai-cyberhub/
 
 * 🤖 [CAI (aliasrobotics/cai)](https://github.com/aliasrobotics/cai) ⚠️ Archived **\[Tool/GitHub]** - Cybersecurity-focused AI tooling from Alias Robotics (automation/agent experiments).
 
-* 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,233 | 🐛 8 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
+* 📚 [awesome-foundation-agents](https://github.com/FoundationAgents/awesome-foundation-agents) ⭐ 2,234 | 🐛 8 | 📅 2025-07-28 **\[Awesome List/GitHub]** - Curated list of foundation-model agent resources (general agent ecosystem context).
 
 * 🤖 [Cyber Security llm Agents ](https://github.com/NVISOsecurity/cyber-security-llm-agents) ⭐ 408 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2024-05-07 **\[Tool/GitHub]** - A collection of agents using LLMs (built on AutoGen) to perform common cybersecurity tasks, showcased at RSAC 2024.
 
@@ -156,11 +156,11 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 ### 🥉 Benchmarks & Datasets
 
-* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 473 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-22 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
+* 📊 [EVMBench (paradigmxyz)](https://github.com/paradigmxyz/evmbench) ⭐ 472 | 🐛 12 | 🌐 TypeScript | 📅 2026-10-22 **\[Benchmark/Tool/GitHub]** - A benchmark and harness for finding and exploiting smart contract bugs.
 
 * 📊 [ExCyTIn-Bench: Evaluating LLM agents on Cyber Threat Investigation (arXiv:2507.14201)](https://arxiv.org/abs/2507.14201) **\[Paper/Benchmark]** - Agents investigate threats by querying 57 Microsoft Sentinel log tables from a controlled Azure tenant (7,542 questions); best reward 0.606. [Code](https://github.com/microsoft/SecRL) ⭐ 165 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2026-11-16.
 
-* 📊 [CyberGym-E2E (sunblaze-ucb)](https://github.com/sunblaze-ucb/cybergym-e2e) ⭐ 111 | 🐛 2 | 🌐 Shell | 📅 2026-11-18 **\[Benchmark/GitHub]** - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).
+* 📊 [CyberGym-E2E (sunblaze-ucb)](https://github.com/sunblaze-ucb/cybergym-e2e) ⭐ 113 | 🐛 2 | 🌐 Shell | 📅 2026-11-18 **\[Benchmark/GitHub]** - A large-scale benchmark built from real-world vulnerabilities in widely used open-source projects to evaluate AI agents' end-to-end cybersecurity capabilities (from discovering vulnerabilities to generating PoCs to writing patches).
 
 * 📊 [PhishLLM](https://github.com/code-philia/PhishLLM) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-06-04 **\[Benchmark/Tool/GitHub]**  See also: [Project Page](https://sites.google.com/view/phishllm/home)
 
@@ -170,7 +170,7 @@ This section covers resources related to Model Context Protocol (MCP) servers fo
 
 * 📊 [FAITH (Foundation AI Testing Hub)](https://github.com/cisco-foundation-ai/faith) ⭐ 29 | 🐛 5 | 🌐 Python | 📅 2026-11-16 **\[Benchmark/GitHub]** - Benchmarking tool for assessing LLM competency on cybersecurity knowledge and tasks.
 
-* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 17 | 🐛 6 | 🌐 Python | 📅 2026-11-24 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
+* 📊 [StealthBench](https://github.com/GangGreenTemperTatum/stealthbench) ⭐ 17 | 🐛 7 | 🌐 Python | 📅 2026-11-27 **\[Benchmark/GitHub]** - A benchmark for evaluating whether autonomous agents operate with operational security (OPSEC) discipline during security engagements.
 
 * 📊 [Crashbench: A LLM benchmark to measure bug-finding and reporting capabilities of LLMs ](https://github.com/ortegaalfredo/crashbench) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2026-08-07 **\[Benchmark/GitHub]**
 
@@ -267,4 +267,4 @@ For suggestions or PRs, open an issue or reach out to me at <ashfaaqf@proton.me>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
